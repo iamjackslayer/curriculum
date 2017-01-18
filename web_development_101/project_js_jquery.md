@@ -556,3 +556,4 @@ If you get totally stuck, solutions from other students are listed below.  I'd e
 * [Boscardin's solution](https://github.com/Boscardin/SketchPad) | [View in browser](https://boscardin.github.io/SketchPad/)
 * [Jake Hill's solution](https://github.com/JakeH91/theodinproject/tree/master/etch_a_sketch) | [View in browser](http://htmlpreview.github.io/?https://github.com/JakeH91/theodinproject/blob/master/etch_a_sketch/index.html)
 * [Adonias Dantas's solution](https://github.com/adoniasdantas/etch-a-sketch) | [View in browser](https://adoniasdantas.github.io/etch-a-sketch/)
+*[Jack Wong's solution](https://github.com/iamjackslayer/colorgrid)
